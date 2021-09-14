@@ -99,8 +99,14 @@ textarea {
     display: none;
   }
 
+  .btn,
+  .switch-field {
+    display: none;
+  }
+
   input,
   textarea,
+  table,
   tr,
   canvas {
     page-break-inside: avoid;
